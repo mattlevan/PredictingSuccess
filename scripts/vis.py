@@ -27,7 +27,7 @@ def vis_network(nodes, edges, physics=False):
       var options = {{
           nodes: {{
               shape: 'dot',
-              size: 25,
+              size: 15,
               font: {{
                   size: 14
               }}
